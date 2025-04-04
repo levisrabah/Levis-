@@ -18,13 +18,12 @@ This is a personal portfolio website for Levis Rabah, showcasing skills, project
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap/Tailwind CSS (optional for styling)
 - Git for version control
 
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/levisrabah/Levis-.git
    ```
 2. Navigate to the project directory:
    ```
